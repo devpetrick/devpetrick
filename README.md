@@ -7,7 +7,7 @@ Sou um Desenvolvedor Fullstack Junior apaixonado por tecnologias de desenvolvime
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 
-<a href="[https://www.linkedin.com/in/patrick-macena-bb5a9424b/](https://www.linkedin.com/in/patrick-macena-131a8228a/)" rel="nofollow" target="_blank">
+<a href="https://www.linkedin.com/in/patrick-macena-131a8228a/" rel="nofollow" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
